@@ -1,2 +1,0 @@
-# WordPressAndroid
-Software Engineering Project
